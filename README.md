@@ -10,3 +10,6 @@ Na aplicação, é possível adicionar tarefas, editá-las e removê-las. O layo
 - CSS
 - JavaScript
 - Bootstrap v5.1
+
+## Site para visualização
+https://acbarbeta.github.io/Lista-de-tarefas/
